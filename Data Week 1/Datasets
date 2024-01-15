@@ -1,15 +1,1 @@
-Neighborhood data for social change (USC Price Center for Social Innovation) - Grocery store access in LA
-The dataset uses data from United States Department of Agriculture (USDA) Food Access Research Atlas to map the number of low income individuals who do not live within close proximity to a grocery store, with close being defined as within 1 mile for urban area residents or within 10 miles for rural area residents, across LA County available 2015 and 2019. Food deserts, which include distance to grocery stores, impact availability of fresh food leading to increased risk for obesity and its comorbidities. 
 
-https://la.myneighborhooddata.org/2021/06/grocery-store-access/
-
-https://github.com/mwoody4/up221-meaghan/blob/main/Data%20Week%201/All%20Years%20Grocery%20Store%20Access%20Calculations.csv 
-
-County of Los Angeles Enterprise GIS - Concentrated Disadvantage Index 2022
-
-This dataset maps one variable, Concentrated Disadvantage Index (CDI), across LA County based on 2020 5 year ACS variables. The index was used by the ACS to calculate the “proportion of households located in census tracts with a high level of concentrated disadvantage, using five census variables”. The CDI could be an interesting measure to study access to affordable healthy foods. 
-Index Definition: https://amchp.org/wp-content/uploads/2022/02/LC-06_ConcentratedDisad_Final-4-24-2014.pdf 
-
-https://egis-lacounty.hub.arcgis.com/datasets/471ce84dc613441d9e7152fee99bede8/explore 
-
-https://github.com/mwoody4/up221-meaghan/blob/main/Data%20Week%201/Concentrated_Disadvantage_Index_2022.csv 
