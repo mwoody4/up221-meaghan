@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Meaghan Woody. I'm a first-year PhD Student in Community Health Sciences within the Fielding School of Public Health. My research interests lie at the intersection of diet-related disparities and immigrant health. More specifically, I am interested in the dietary acculturation of Latin American and Caribbean immigrants and their diaspora, and the risk of diet-related NCDs. 
+My name is Meaghan Woody and I'm a first-year PhD Student in Community Health Sciences within the Fielding School of Public Health. My research interests lie at the intersection of diet-related disparities and immigrant health. More specifically, I am interested in the dietary acculturation of Latin American and Caribbean immigrants and their diaspora, and the risk of diet-related NCDs. 
 
 ## Course Description
 
