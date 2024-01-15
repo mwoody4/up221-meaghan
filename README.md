@@ -6,7 +6,7 @@ My name is Meaghan Woody and I'm a first-year PhD Student in Community Health Sc
 
 ## Course Description
 
-UP 221 is introduces students to the foundations of spatial data science using Python.
+UP 221 introduces students from a range of disciplines to the foundations of spatial data science using Python.
 
 ## Personal Class Objectives
 
