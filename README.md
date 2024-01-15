@@ -10,7 +10,7 @@ UP 221 is introduces students to the foundations of spatial data science using P
 
 ## Personal Class Objectives
 
-My objectives for this course are to: learn how to use python for mapping, learn how to create publishable maps and figures, and apply these skills to future projects to answer research questions with a spatial component. I have taken courses in GIS and spatial epidemiology using ArcGIS and R respectively and I am interested to see how Python 
+My objectives for this course are to: learn how to use python for mapping, learn how to create publishable maps and figures, and apply these skills to future projects to answer research questions with a spatial component. I have taken courses in GIS and spatial epidemiology using ArcGIS and R, respectively, and I am interested to see how Python will compare.
 
 ## Project Ideas
 
