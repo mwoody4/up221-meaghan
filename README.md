@@ -19,3 +19,6 @@ My objectives for this course are to: learn how to use python for mapping, learn
 - How is distance to food markets (or defined food deserts) associated with disbursement and proportions of immigrants in the community?
 - How does distance to food markets affect the health of immigrants?
 - How does distance/access to ethnic and culturally-concordant food retailers improve health and diet outcomes?
+<img width="610" alt="Screenshot 2024-01-21 at 11 16 17 PM" src="https://github.com/mwoody4/up221-meaghan/assets/156032705/aef3cb3d-6be3-4275-a422-242cfe26f42b">
+
+
